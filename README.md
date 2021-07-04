@@ -1,4 +1,5 @@
 ### Hi there 👋
+### - ✍🏼 I'm currently writing a Swift article in [https://tolgataner43.medium.com]Medium.
 
 <!--
 **TolgaTaner/TolgaTaner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
