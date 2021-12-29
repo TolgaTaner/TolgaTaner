@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm passionately contributing [Swift Programming Language] (https://bugs.swift.org/browse/SR-15521).
+### I'm passionately contributing [Swift Programming Language]((https://bugs.swift.org/browse/SR-15521)).
 ### I'm actively learning Swift Programming Language.
 <!--
 **TolgaTaner/TolgaTaner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
